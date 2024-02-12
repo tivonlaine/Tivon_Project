@@ -26,11 +26,11 @@ while bool:
     screen.update()
     time.sleep(.1)
     snake.move()
-#   food
     if snake.head.distance(food)<15:
         food.refresh()
         snake.extend()
         scoreb.point()
+        screen.update()
 
     # hit wall
     if snake.head.xcor()>290 or snake.head.xcor()<-290 or snake.head.ycor()>290 or snake.head.ycor()<-290:
