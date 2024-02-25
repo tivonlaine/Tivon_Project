@@ -1,0 +1,17 @@
+Orignal Tree
+7
+3
+5
+1
+2
+6
+8
+
+Updated Tree
+7
+3
+14
+14
+2
+6
+6
