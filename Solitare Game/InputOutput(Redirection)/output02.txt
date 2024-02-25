@@ -1,0 +1,105 @@
+1: 10H 
+2: __ 4D 
+3: __ __ 6D 
+4: __ __ __ 9C 
+5: __ __ __ __ 3C 
+Make your move: 4 1
+1: 10H 9C 
+2: __ 4D 
+3: __ __ 6D 
+4: __ __ 2H 
+5: __ __ __ __ 3C 
+Make your move: 4 5
+1: 10H 9C 
+2: __ 4D 
+3: __ __ 6D 
+4: __ 8C 
+5: __ __ __ __ 3C 2H 
+Make your move: 5 2
+1: 10H 9C 
+2: __ 4D 3C 2H 
+3: __ __ 6D 
+4: __ 8C 
+5: __ __ __ 7C 
+Make your move: 3 5
+1: 10H 9C 
+2: __ 4D 3C 2H 
+3: __ 8D 
+4: __ 8C 
+5: __ __ __ 7C 6D 
+Make your move: 5 3
+1: 10H 9C 
+2: __ 4D 3C 2H 
+3: __ 8D 7C 6D 
+4: __ 8C 
+5: __ __ 9D 
+Make your move: 3 1
+1: 10H 9C 8D 7C 6D 
+2: __ 4D 3C 2H 
+3: 7D 
+4: __ 8C 
+5: __ __ 9D 
+Make your move: 3 4
+1: 10H 9C 8D 7C 6D 
+2: __ 4D 3C 2H 
+3: 
+4: __ 8C 7D 
+5: __ __ 9D 
+Make your move: 1 3
+Cannot move card to an empty stack
+1: 10H 9C 8D 7C 6D 
+2: __ 4D 3C 2H 
+3: 
+4: __ 8C 7D 
+5: __ __ 9D 
+Make your move: 3 4
+Cannot move card from empty stack
+1: 10H 9C 8D 7C 6D 
+2: __ 4D 3C 2H 
+3: 
+4: __ 8C 7D 
+5: __ __ 9D 
+Make your move: 4 5
+1: 10H 9C 8D 7C 6D 
+2: __ 4D 3C 2H 
+3: 
+4: 5S 
+5: __ __ 9D 8C 7D 
+Make your move: 4 1
+1: 10H 9C 8D 7C 6D 5S 
+2: __ 4D 3C 2H 
+3: 
+4: 
+5: __ __ 9D 8C 7D 
+Make your move: 1 4
+Cannot move card to an empty stack
+1: 10H 9C 8D 7C 6D 5S 
+2: __ 4D 3C 2H 
+3: 
+4: 
+5: __ __ 9D 8C 7D 
+Make your move: 4 5
+Cannot move card from empty stack
+1: 10H 9C 8D 7C 6D 5S 
+2: __ 4D 3C 2H 
+3: 
+4: 
+5: __ __ 9D 8C 7D 
+Make your move: 2 1
+1: 10H 9C 8D 7C 6D 5S 4D 3C 2H 
+2: 10S 
+3: 
+4: 
+5: __ __ 9D 8C 7D 
+Make your move: 5 2
+1: 10H 9C 8D 7C 6D 5S 4D 3C 2H 
+2: 10S 9D 8C 7D 
+3: 
+4: 
+5: __ 6C 
+Make your move: 5 2
+1: 10H 9C 8D 7C 6D 5S 4D 3C 2H 
+2: 10S 9D 8C 7D 6C 
+3: 
+4: 
+5: 4S 
