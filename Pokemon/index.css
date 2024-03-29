@@ -1,0 +1,33 @@
+.whole h1{
+    position: absolute; top: 50px; left: 40px;
+}
+.first{
+    position: absolute; top: 150px; left: 70px;
+    font-size: 20px;
+
+}
+.entername{
+    font-size: 12px;
+    position: absolute; top: 180px; left: 70px;
+
+}
+.button{
+    position: absolute; top: 215px; left: 70px;
+
+}
+.facts{
+    position: absolute; top: 265px; left: 70px;
+
+}
+.pic{
+    width: 200px;
+}
+.background{
+    background-color: orange;
+}
+.load{
+    position: absolute; top: 220px; left: 70px;
+}
+.pic{
+    width: 200px;
+}
